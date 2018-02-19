@@ -1,4 +1,4 @@
-const wsUri = "ws://echo.websocket.org/"
+const wsUri = "wss://echo.websocket.org/"
 export const websocket = new WebSocket(wsUri)
 
 
