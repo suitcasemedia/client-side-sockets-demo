@@ -8,3 +8,8 @@ to run 'yarn start'
 Credit for the CSS for the iphone goes to this pen https://codepen.io/havardob/pen/KzoOMB
 
 SVG coach and athlete hand drawn in Inkscape
+
+TODO: 
+State managment with Redux
+Refactor CSS into modular CSS 
+Test suite
