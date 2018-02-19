@@ -11,5 +11,6 @@ SVG coach and athlete hand drawn in Inkscape
 
 TODO: 
 * State managment with Redux,
-* Refactor CSS into modular CSS 
+* Add SCSS to the build
+* Refactor CSS into modular SCSS 
 * Test suite
